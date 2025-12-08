@@ -2,7 +2,7 @@
 
 echo "🚀 Starting DevOps Environment Setup..."
 
-BASE_DIR=devops_challenge
+BASE_DIR=~/devops_challenge
 LOGS_DIR="$BASE_DIR/logs"
 CONFIGS_DIR="$BASE_DIR/configs"
 SCRIPTS_DIR="$BASE_DIR/scripts"
